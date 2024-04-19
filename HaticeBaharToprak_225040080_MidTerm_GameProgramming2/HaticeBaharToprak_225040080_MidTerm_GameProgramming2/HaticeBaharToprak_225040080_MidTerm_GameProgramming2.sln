@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaticeBaharToprak_225040080_MidTerm_GameProgramming2", "HaticeBaharToprak_225040080_MidTerm_GameProgramming2.csproj", "{609C912A-341D-4CD0-B2BC-1BC831AC169B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609C912A-341D-4CD0-B2BC-1BC831AC169B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609C912A-341D-4CD0-B2BC-1BC831AC169B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609C912A-341D-4CD0-B2BC-1BC831AC169B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609C912A-341D-4CD0-B2BC-1BC831AC169B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A94E719-E497-43B4-AB77-576BFE3D22A5}
+	EndGlobalSection
+EndGlobal

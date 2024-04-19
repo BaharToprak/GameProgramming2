@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lG27JrsvGKBwMou73I/gPd2K1qbHp6lLLMJd6gkTjGnJME7sf47S2T6Sjwn/2WLeFN+0Y+7HLRS+LfUneNJxQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\HaticeBaharToprak_225040080_MidTerm_GameProgramming2\\HaticeBaharToprak_225040080_MidTerm_GameProgramming2\\HaticeBaharToprak_225040080_MidTerm_GameProgramming2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
